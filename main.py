@@ -19,4 +19,4 @@ for a in vec:
         if is_prim(a):
             print(a)
     except ValueError:
-        print("NO ")
+        print("NO")
